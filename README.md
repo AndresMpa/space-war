@@ -1,2 +1,2 @@
-# space-war
-Open source top-down shooter
+# Space War
+Open source top-down shooter written in JavaScript and Phaser 3
