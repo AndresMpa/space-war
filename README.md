@@ -1,5 +1,5 @@
 # Space War
-Open source top-down shooter written in TypeScript(TS) and Phaser.js 3
+Open source top-down shooter written in TypeScript(TS) and Phaser.js 3.
 
 ### TO DO
 - [ ] Find assests
